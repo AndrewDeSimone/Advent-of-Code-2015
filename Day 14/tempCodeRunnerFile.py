@@ -1,0 +1,1 @@
+distanceboard[len(distanceboard)-1].append(distance)
